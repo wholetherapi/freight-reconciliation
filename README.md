@@ -1,2 +1,5 @@
-# freight-reconciliation
-Cobalt Ridge Logistics - Q3 2026 carrier invoice reconciliation and finance sign-off workspace
+# Audit mirror
+
+Read-only mirror of selected operational metadata for the Northwind Components
+storefront. It exists so that read-only repository tooling can be smoke-tested
+against a permitted repository.
